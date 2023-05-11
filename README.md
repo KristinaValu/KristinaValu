@@ -1,5 +1,6 @@
 ### Hi, I'm Kristina 👋
- 🌱 I'm a fledgling developer who's continuously learning and growing.
+🌱 I’m currently learning.
+
 
 
 
