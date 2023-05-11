@@ -5,7 +5,7 @@
 
 
 #### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=ts,react,js,html,css,vite,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,js,html,css,git,github)](https://skillicons.dev)
 
 <!--
 **KristinaValu/KristinaValu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
