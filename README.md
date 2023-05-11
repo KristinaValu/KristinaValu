@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning.
 - 🌱 I'm a fledgling developer who's continuously learning and growing.
-- 🔭 Currently looking for job or internship opportunities in front-end web development.
+
 
 
 #### Languages and Tools
